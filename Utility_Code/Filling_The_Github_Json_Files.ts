@@ -289,10 +289,9 @@ async function compose_A_DataObj_For_A_Post__From_An_Image_Data__Remember_It_Wil
 		if (is_This_Image_ForThe_Answer == true) {
 			temp_Obj.is_There_A_Bottom_Post = true;
 			temp_Obj.the_TextContent_OfThe_Button_Show_Bottom_Post = "Show The Answer";
-			temp_Obj.the_Relative_Path_OfThe_Bottom_Post_From_The_PC__V1 =
-				the_Github_Path_OfThe_Image;
+			temp_Obj.the_Url_OfThe_Bottom_Post_From_Internet_Site_1 = the_Github_Path_OfThe_Image;
 		} else {
-			temp_Obj.the_Relative_Path_OfThe_Top_Post_From_The_PC__V1 = the_Github_Path_OfThe_Image;
+			temp_Obj.the_Url_OfThe_Top_Post_From_Internet_Site_1 = the_Github_Path_OfThe_Image;
 		}
 
 		return temp_Obj;
