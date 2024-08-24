@@ -1,0 +1,7 @@
+1- Put the new posts folder in "The_Posts" folder
+2- in the terminal go to folder "Utility_Code"
+3- run the following command: "node Filling_The_Github_Json_Files.js"
+4- Enter the target folder (the new posts folder you just added)
+5- If the process is success review the links in both (the newly created data file) (the new and the old links in the guide file)
+6- commit and push
+7- Test the links in both (the newly created data file) (the new and the old links in the guide file);
