@@ -3,5 +3,10 @@
 		"the_Start_Number_OfThis_Range_Of_Posts": 0,
 		"the_End_Number_OfThis_Range_Of_Posts": 51,
 		"the_Url_OfThis_Posts_Data_File": "https://raw.githubusercontent.com/A-M-Softwares/Tata_Brothers_Posts_Data/main/The_Data_Files/from_0_To_51.json"
+	},
+	"from_52_To_63": {
+		"the_Start_Number_OfThis_Range_Of_Posts": 52,
+		"the_End_Number_OfThis_Range_Of_Posts": 63,
+		"the_Url_OfThis_Posts_Data_File": "https://raw.githubusercontent.com/A-M-Softwares/Tata_Brothers_Posts_Data/main/The_Data_Files/from_52_To_63.json"
 	}
 }
